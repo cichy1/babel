@@ -170,7 +170,8 @@ These are mostly for internal use in various plugins: `babel-helper-x`.
 
 ### Core members
 
-[![Babel](https://avatars.githubusercontent.com/u/9637642?s=64)](https://github.com/babel) | [![Daniel Tschinder](https://avatars.githubusercontent.com/u/231804?s=64)](https://github.com/danez) | [![Logan Smyth](https://avatars.githubusercontent.com/u/132260?s=64)](https://github.com/loganfsmyth) | [![Henry Zhu](https://avatars.githubusercontent.com/u/588473?s=64)](https://github.com/hzoo) | 
+[![Babel](https://avatars.githubusercontent.com/u/9637642?s=64)](https://github.com/babel) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fbabel.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fbabel?ref=badge_shield)
+| [![Daniel Tschinder](https://avatars.githubusercontent.com/u/231804?s=64)](https://github.com/danez) | [![Logan Smyth](https://avatars.githubusercontent.com/u/132260?s=64)](https://github.com/loganfsmyth) | [![Henry Zhu](https://avatars.githubusercontent.com/u/588473?s=64)](https://github.com/hzoo) | 
 |---|---|---|---|
 Babel | Daniel Tschinder | Logan Smyth | Henry Zhu |
 :octocat: [@babel](https://github.com/babel) | [@danez](https://github.com/danez) | [@loganfsmyth](https://github.com/loganfsmyth) | [@hzoo](https://github.com/hzoo) |
@@ -280,3 +281,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 ## License
 
 [MIT](https://github.com/babel/babel/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fbabel.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fbabel?ref=badge_large)
